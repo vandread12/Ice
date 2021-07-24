@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-icecream-dev-145457-authRole",
+      "UnauthRoleArn": "arn:aws:iam::814286635591:role/amplify-icecream-dev-145457-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::814286635591:role/amplify-icecream-dev-145457-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-icecream-dev-145457-deployment",
+      "UnauthRoleName": "amplify-icecream-dev-145457-unauthRole",
+      "StackName": "amplify-icecream-dev-145457",
+      "StackId": "arn:aws:cloudformation:us-east-1:814286635591:stack/amplify-icecream-dev-145457/07c99b50-ecb9-11eb-a918-12c05f176271",
+      "AmplifyAppId": "d8rm118nwiqja"
+    }
+  }
+}
